@@ -1,1 +1,5 @@
 # TareaCarousel
+
+## Autor
+
+Diego Sotomayor
